@@ -1,0 +1,9 @@
+streamlit>=1.40
+groq>=0.13
+python-dotenv
+pypdf
+faiss-cpu
+fastembed
+numpy
+pandas
+plotly
